@@ -1,0 +1,11 @@
+{
+  "household_size": 2,
+  "meals_per_day": 3,
+  "dietary_restrictions": ["halal"],
+  "allergies": ["tree nuts"],
+  "weekly_budget": 150,
+  "cuisine_preferences": ["Mediterranean", "Asian", "American"],
+  "cooking_skill": "intermediate",
+  "max_prep_time_minutes": 45,
+  "pantry_staples": ["olive oil", "salt", "pepper", "garlic", "onions", "rice", "pasta"]
+}
